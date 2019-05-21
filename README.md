@@ -3,8 +3,6 @@
 
 ## A serverless URL shortener
 
-***
-
 This URL shortener uses the Google Sheets Data Visualisation API to get the relevant URL from Google Sheets.
 
 
