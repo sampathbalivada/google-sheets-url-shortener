@@ -47,9 +47,10 @@ Download the current project and edit the fields as required.
 ### Sheet Format
 
 The sheet must to be in the below mentioned format.
-| Hash          | Link           |
-| ------------- |:--------------:|
-| google        | ```www.google.com```|
+
+Hash | Link
+--- | ---
+google | `www.google.com`
 
 ## Sample Implementation
 
