@@ -1,0 +1,27 @@
+.logo {
+    padding: 8px;
+    width: 95%;
+    height: auto; 
+    max-width: 600px;
+
+    vertical-align: middle;
+}
+
+.loading-and-error {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.error-text {
+    color: white;
+    font-size: 28px;
+    padding: 4px;
+}
+
+html, body {
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+    /* background: #000000; */
+}

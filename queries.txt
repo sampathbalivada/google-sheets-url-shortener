@@ -1,0 +1,1 @@
+https://docs.google.com/spreadsheets/d/1qYHsjmfA0ivXNwCA4qIhRgicIceMXmMgoG3laF6yLFc/gviz/tq?tqx=out:json&tq=SELECT%20B%20WHERE%20A%20%3D%20%27google%27&gid=0
