@@ -40,7 +40,7 @@ Download the current project and edit the fields as required.
 
 1. Get the shareable link of the Google sheet. <br> Example: ```https://docs.google.com/spreadsheets/d/1md58QgRgGI-PdmZMY_GJj-fXoX0L78D9AeK2NqOFiqY/edit?usp=sharing```
 2. The link is in this format: <br> ```https://docs.google.com/spreadsheets/d/{DOCUMENT_KEY}/{PARAMETERS}```
-3. The ```sheet_number``` is ```0``` is there is only one sheet in the document.
+3. The ```sheet_number``` is ```0``` if there is only one sheet in the document.
 
 ### Sheet Format
 
