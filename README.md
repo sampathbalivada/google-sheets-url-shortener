@@ -1,3 +1,4 @@
+[![Status](https://img.shields.io/github/license/sampathbalivada/google-sheets-url-shortener.svg?style=plastic)]()
 
 # Google Sheets URL Shortener
 
